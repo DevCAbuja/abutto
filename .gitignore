@@ -1,6 +1,6 @@
 # lock files
-# yarn.lock
-# package-lock.json
+yarn.lock
+package-lock.json
 
 # Logs
 logs
