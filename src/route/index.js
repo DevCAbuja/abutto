@@ -25,7 +25,7 @@ const router = express.Router();
 
 // Home
 router.get('/', (req, res) => {
-  res.status(200).json({
+  return res.status(200).json({
     message: 'Welcome to Abutto'
   });
 });
